@@ -1,4 +1,4 @@
-# Prueba sobre apuntamiento Precio Capturado de Energías Renovables
+# Prueba sobre apuntamiento Precio Capturado de Energías Renovables ☀️🌬️
 
 Este trabajo procesa datos de precios y volúmenes de generación solar (fotovoltaica) y eólica para calcular el **apuntamiento del precio capturado** por cada tecnología en períodos diario, mensual y anual.
 
